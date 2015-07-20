@@ -1,0 +1,21 @@
+/* Styles go here */
+/* Styles go here */
+
+.canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* width: 100%;
+  height: 100%;
+  border: 1px solid black; */
+  background-color: black;
+  overflow: hidden;
+}
+
+.sprite {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: red;
+}
